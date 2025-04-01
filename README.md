@@ -8,7 +8,6 @@
 - **Bùi Ngọc Đức**
 - **Vũ Thành Dương**
 - **Nguyễn Việt Quang**
-- 
 ## ⚙️ Công nghệ sử dụng
 - **Flutter** (Dart)
 
