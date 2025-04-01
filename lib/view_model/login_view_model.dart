@@ -20,8 +20,8 @@ class LoginViewModel extends GetxController {
     if (kDebugMode) {
       print("LoginViewModel Init ");
     }
-    txtEmail.value.text = "test@gmail.com";
-    txtPassword.value.text = "123456";
+    txtEmail.value.text = "";
+    txtPassword.value.text = "";
   }
 
   //ServiceCall
