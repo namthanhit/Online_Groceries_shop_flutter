@@ -38,9 +38,4 @@ flutter run
 ```
 
 
-## 🤝 Đóng góp
-Nếu bạn muốn đóng góp, vui lòng tạo pull request hoặc mở issue để thảo luận.
-
-## 📜 License
-MIT
 
